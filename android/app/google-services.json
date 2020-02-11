@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807524898896",
+    "firebase_url": "https://contactapp-535d5.firebaseio.com",
+    "project_id": "contactapp-535d5",
+    "storage_bucket": "contactapp-535d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807524898896:android:01a096ed64640052961955",
+        "android_client_info": {
+          "package_name": "com.example.fluttercontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807524898896-s55564mchomk0apd06vj77f5mr9pnd6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6x6qq2FXFb0R8QU9H3JnGaLCimedt50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807524898896-s55564mchomk0apd06vj77f5mr9pnd6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
